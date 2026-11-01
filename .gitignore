@@ -1,0 +1,12 @@
+# Compiled classes
+out/
+*.class
+
+# MySQL Connector/J jar: download it yourself (see README)
+lib/*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
